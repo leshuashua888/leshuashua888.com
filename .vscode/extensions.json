@@ -4,6 +4,9 @@
         "koppt.vscode-view-in-browser",
         "daosro.stylelint",
         "oleg-shilo.cs-script",
-        "funkyremi.vscode-google-translate"
+        "funkyremi.vscode-google-translate",
+        "alefragnani.project-manager",
+        "formulahendry.code-runner",
+        "julialang.language-julia"
     ]
 }
