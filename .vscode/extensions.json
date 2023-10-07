@@ -2,6 +2,8 @@
     "recommendations": [
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "koppt.vscode-view-in-browser",
-        "daosro.stylelint"
+        "daosro.stylelint",
+        "oleg-shilo.cs-script",
+        "funkyremi.vscode-google-translate"
     ]
 }
